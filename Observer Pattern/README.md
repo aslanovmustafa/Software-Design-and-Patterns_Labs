@@ -19,3 +19,4 @@ observers, and what kind of methods are used to define the
 communication (refer to the course book).
 • Implement this task using your own observer pattern and then do the
 same task using the Java built-in Observer Pattern
+ 
